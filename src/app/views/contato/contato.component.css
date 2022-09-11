@@ -1,24 +1,15 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-
+.text1 {
+    text-align: center;
+    padding-top: 10px;
 }
 
-html,body{
-    height: 100vh;
-}
-.body{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.article{
-max-width: 300px;
-
+.textemail {
+    padding-bottom: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
 }
 
-.article img{
-    width: 100%;
+.text1 {
+    text-align: center;
+    padding-top: 10px;
 }
-
