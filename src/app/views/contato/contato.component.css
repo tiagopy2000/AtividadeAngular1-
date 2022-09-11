@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html,body{
+    height: 100vh;
+}
+.body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.article{
+max-width: 300px;
+
+}
+
+.article img{
+    width: 100%;
+}
+
